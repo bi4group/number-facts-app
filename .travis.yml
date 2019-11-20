@@ -15,4 +15,4 @@ before_script:
   - npm i
 
 script:
-  - npm run test
+  - ng test --sourceMap=false --browsers ChromeHeadless --watch=false
