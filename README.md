@@ -1,5 +1,7 @@
 # NumberFactsApp
 
+[![Build Status](https://travis-ci.org/bi4group/number-facts-app.svg?branch=master)](https://travis-ci.org/bi4group/number-facts-app)
+
 This is a demo project to showcase some simple Angular components and libraries, such as Angular Material, RxJS, FlexLayout and the usage of interfaces and services.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
@@ -24,4 +26,4 @@ Run `npm run test` to execute the unit tests via [Karma](https://karma-runner.gi
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-&copy; Bi4 Group - All Rights Reserved under MIT License
+&copy; [Bi4 Group](https://bi4group.com) - All Rights Reserved under MIT License
