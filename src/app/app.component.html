@@ -1,0 +1,11 @@
+<h2>{{title}}</h2>
+<div class="wrapper" fxLayout="row">
+  <div class="number-wrapper inner-wrapper" fxFlex="50">
+    <mat-form-field>
+      <input matInput placeholder="Enter here your magic number" required [(ngModel)]="magicNumber">
+    </mat-form-field>
+  </div>
+  <div class="result-wrapper inner-wrapper" fxFlex="50">
+    <app-magic-number [magicNumber]="magicNumber"></app-magic-number>
+  </div>
+</div>
